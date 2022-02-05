@@ -28,8 +28,8 @@
   <img align="center" alt="Francis-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Francis-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   
-    <!-- <img align="right" alt="Francis-pic" height="150" style="border-radius:50px;" src="">
-</div> -->
+    <!--- <img align="right" alt="Francis-pic" height="150" style="border-radius:50px;" src="">
+</div> --->
 
  ##
   
