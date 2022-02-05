@@ -1,6 +1,6 @@
 ### Hi there, I'm Francis 👋
 
-- 🔭 I’m currently working on FullStack
+- 🔭 I’m currently working as FullStack
 - 🌱 I’m currently learning React-Native
 - 👯 I’m looking to collaborate on Farfetch
 - 🤔 I’m looking for help with ...
