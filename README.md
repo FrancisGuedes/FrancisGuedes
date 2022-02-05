@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working as FullStack
 - 🌱 I’m currently learning React-Native
-- 👯 I’m looking to collaborate on Farfetch
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Food
+- 💬 Ask me about food
 - ⚡ Fun fact: I'm a awkward dancer
 
 <div align="center">
