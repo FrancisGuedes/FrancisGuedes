@@ -1,6 +1,6 @@
 ### Hi there, I'm Francis 👋
 
-- 🔭 I’m currently working as FullStack
+- 🔭 I’m currently working with FullStack
 - 🌱 I’m currently learning React-Native
 - 💬 Ask me about food
 - ⚡ Fun fact: I'm a awkward dancer
