@@ -2,8 +2,9 @@
 
 - 🔭 I’m currently working as a FullStack developer with React, React-Native and SpringBoot.
 - 🌱 I’m currently improving React-Native.
-- 💬 Ask me about food
-- ⚡ Fun fact: I'm a awkward dancer
+- 🏢 Working @ Polarising, Lisbon, Portugal.
+- 💬 Ask me about food.
+- ⚡ Fun fact: I'm a awkward dancer.
 
 <div align="center">
   <a href="https://github.com/francisguedes">
