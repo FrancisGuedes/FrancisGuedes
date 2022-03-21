@@ -1,7 +1,7 @@
 ### Hi there, I'm Francis 👋
 
-- 🔭 I’m currently working with FullStack
-- 🌱 I’m currently learning React-Native
+- 🔭 I’m currently working as a FullStack developer with React, React-Native and SpringBoot.
+- 🌱 I’m currently improving React-Native.
 - 💬 Ask me about food
 - ⚡ Fun fact: I'm a awkward dancer
 
