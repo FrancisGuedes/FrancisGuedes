@@ -4,7 +4,7 @@
 - 🌱 I’m currently improving React-Native.
 - 🏢 Working @ Polarising, Lisbon, Portugal.
 - 💬 Ask me about food.
-- ⚡ Fun fact: I'm a awkward dancer.
+- ⚡ Fun fact: I'm a great hand stander.
 
 <div align="center">
   <a href="https://github.com/francisguedes">
