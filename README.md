@@ -1,10 +1,11 @@
 ### Hi there, I'm Francis 👋
 
 - 🔭 I’m currently working as a FullStack developer with React, React-Native and SpringBoot.
-- 🌱 I’m currently improving React-Native.
+- 🌱 I’m currently improving React.
 - 🏢 Working @ Polarising, Lisbon, Portugal.
 - 💬 Ask me about food.
 - ⚡ Fun fact: I'm a great handstander.
+- 🔗 https://francisgedes.azurewebsites.net/
 
 <div align="center">
   <a href="https://github.com/francisguedes">
