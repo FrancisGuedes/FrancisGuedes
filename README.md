@@ -1,6 +1,6 @@
 ### Hi there, I'm Francis 👋
 
-- 🔭 I’m currently working as a FullStack developer with React / Angular, React-Native and SpringBoot.
+- 🔭 I’m currently working as a FullStack developer with React / Angular and SpringBoot.
 - 🌱 I’m currently improving Client Side skills.
 - 🏢 Working @ Polarising, Lisbon, Portugal.
 - 💬 Ask me about food.
