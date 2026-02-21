@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a FullStack developer with React / Angular and SpringBoot.
 - 🌱 I’m currently improving Client Side skills.
-- 🏢 Working @ Polarising, Lisbon, Portugal.
+<!---- 🏢 Working @ Polarising, Lisbon, Portugal. --->
 - 💬 Ask me about food.
 - ⚡ Fun fact: I'm a great handstander.
 - 🔗 https://francisgedes.azurewebsites.net/
